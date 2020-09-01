@@ -1,0 +1,59 @@
+
+body {
+    background-color: darkslategrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: ;
+}
+
+main {
+    background-color: darkred;
+    border-radius: 5px;
+    width: 375px;
+    text-align: center;
+    font-family: Architects Daughter;
+    
+
+
+}
+
+p {
+    color: whitesmoke;
+}
+
+.verytop {
+    background-color: darkslategrey;
+    color: whitesmoke;
+    min-height: 10vh;
+}
+
+.top {
+   
+    height: 120px
+    border radius
+}
+.middle {
+    background-color: white;
+    height: 115px
+}
+.bottom {
+    
+    height: 20px
+}
+
+.hello {
+    font-size: 4rem;
+    color: whitesmoke;
+}
+
+.myname {
+    font-size: 1rem;
+    color: whitesmoke;
+}
+
+.love {
+    font-size: 5rem;
+    color: blueviolet;
+    line-height: ;
+}
