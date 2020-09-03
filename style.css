@@ -1,4 +1,3 @@
-
 body {
     background-color: darkslategrey;
     display: flex;
@@ -35,11 +34,22 @@ p {
 }
 .middle {
     background-color: white;
-    height: 115px
+    color: blueviolet;
+    font-size: 2rem;
+    height: 135px;
+    align-content: center;
+    justify-content: center;
+    padding-top: 1px;
+    padding-bottom: 2px;
 }
 .bottom {
     
     height: 20px
+}
+
+.very-bottom {
+    background-color: darkslategray;
+    padding-top: 10px;
 }
 
 .hello {
